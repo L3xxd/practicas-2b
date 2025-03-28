@@ -1,0 +1,23 @@
+{
+  "name": "practicas-git",
+  "version": "1.0.0",
+  "main": "equipo-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L3xxd/practicas-2b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L3xxd/practicas-2b/issues"
+  },
+  "homepage": "https://github.com/L3xxd/practicas-2b#readme",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0"
+  }
+}
